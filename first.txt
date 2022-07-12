@@ -1,0 +1,11 @@
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+iamdsp
+Adding data from dev branch
+
+1)Adding new from master
